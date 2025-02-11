@@ -2,7 +2,7 @@
 
 *An interactive world map displaying real-time time zones and timestamps for all countries.*
 
-![World Time Stamps Preview](https://worldtimestamps.web.app/imgs/og-image.jpg)
+![World Time Stamps Preview](https://worldtimestamps.web.app/imgs/ogimg.png)
 
 ## About
 **World Time Stamps** is a web-based tool that provides real-time time zones and timestamps for every country using an **interactive world map**. Hovering over any country displays its current **date and time**, with automatic updates.
